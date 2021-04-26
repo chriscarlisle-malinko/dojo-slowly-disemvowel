@@ -1,4 +1,5 @@
 ![Minitest Status](https://github.com/chriscarlisle-malinko/dojo-slowly-disemvowel/actions/workflows/minitest.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Dojo Excercise
 
