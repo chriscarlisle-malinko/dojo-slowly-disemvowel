@@ -1,6 +1,7 @@
+![Minitest Status](https://github.com/chriscarlisle-malinko/dojo-slowly-disemvowel/actions/workflows/minitest.yml/badge.svg)
+
 # Dojo Excercise
 
-## Task
 For any given word, return a list of strings where one vowel has been removed at a time.
 
 ```
